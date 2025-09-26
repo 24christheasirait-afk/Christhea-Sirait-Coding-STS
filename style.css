@@ -1,0 +1,255 @@
+
+.desktop {
+  background-color: #e5ffcc;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 1024px;
+  position: relative;
+}
+
+.desktop .rectangle {
+  position: absolute;
+  top: 0;
+  left: 791px;
+  width: 649px;
+  height: 1024px;
+  object-fit: cover;
+}
+
+.desktop .img {
+  position: absolute;
+  top: 0;
+  left: 16px;
+  width: 640px;
+  height: 962px;
+  object-fit: cover;
+}
+.desktop .div {
+  position: absolute;
+  top: 20px;
+  left: 880px;
+  width: 473px;
+  height: 37px;
+  background-color: #a9d48c;
+  border-radius: 10px;
+}
+
+.desktop .rectangle-2 {
+  position: absolute;
+  top: 20px;
+  left: 890px;
+  width: 42px;
+  height: 37px;
+  object-fit: cover;
+}
+
+.desktop .text-wrapper {
+  position: relative;
+  z-index: 10;
+  top: 20px;
+  left: 600px;
+  width: 500px;
+  font-family: "Lexend Deca-Bold", Helvetica;
+  font-weight: 700;
+  color: #325d29;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  transform: translateX(-250px);
+}
+
+.desktop .ellipse {
+  position: absolute;
+  top: 20px;
+  left: 18px;
+  width: 295px;
+  height: 280px;
+  object-fit: cover;
+}
+
+.desktop .rectangle-3 {
+  position: absolute;
+  top: 126px;
+  left: 328px;
+  width: 146px;
+  height: 50px;
+  background-color: #99b97c;
+  border-radius: 10px;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  top: 131px;
+  left: 349px;
+  width: 168px;
+  font-family: "Lexend Deca-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-on-a-path {
+  position: absolute;
+  top: 126px;
+  left: 514px;
+  width: 142px;
+  height: 50px;
+}
+
+.desktop .rectangle-4 {
+  position: absolute;
+  top: 126px;
+  left: 517px;
+  width: 160px;
+  height: 50px;
+  background-color: #99b97c;
+  border-radius: 10px;
+}
+
+.desktop .text-wrapper-3 {
+  position: absolute;
+  top: 131px;
+  left: 557px;
+  font-family: "Lexend Deca-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .rectangle-5 {
+  position: absolute;
+  top: 126px;
+  left: 714px;
+  width: 155px;
+  height: 50px;
+  background-color: #99b97c;
+  border-radius: 10px;
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  top: 131px;
+  left: 717px;
+  font-family: "Lexend Deca-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .welcome-to-balanced {
+  position: absolute;
+  top: 297px;
+  left: 28px;
+  width: 982px;
+  font-family: "Lexend Deca-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .span {
+  font-weight: 700;
+}
+
+.desktop .text-wrapper-5 {
+  font-weight: 700;
+  font-size: 36px;
+}
+
+.desktop .text-wrapper-6 {
+  font-family: "Lisu Bosa-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 36px;
+}
+
+.desktop .text-wrapper-7 {
+  position: absolute;
+  top: 663px;
+  left: 91px;
+  font-family: "Lexend-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .rectangle-6 {
+ position: absolute;
+ top: 655px;
+ bottom: 10px;
+ left: 30px;
+ width: 50px;
+ height: 50px;
+ object-fit: cover;
+ margin: 0 auto;
+ display: block;
+}
+
+.desktop .rectangle-7 {
+  position: absolute;
+  top: 20px;
+  left: 1305px;
+  width: 39px;
+  height: 37px;
+  object-fit: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.desktop2 .text-wrapper {
+  position: relative;
+  top: -3px;
+  left: 24px;
+  width: 661px;
+  font-family: "Lexend-Bold", Helvetica;
+  font-weight: 700;
+  color: #2d4e14;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-on-a-path {
+  position: absolute;
+  top: -918px;
+  left: 32px;
+  width: 472px;
+  height: 428px;
+  object-fit: cover;
+}
+
+.desktop2 .img {
+  position: absolute;
+  top: -874px;
+  left: 32px;
+  width: 364px;
+  height: 338px;
+  object-fit: cover;
+}
+
+.desktop .rectanglee-2 {
+  position: relative;
+}
+
+
+
